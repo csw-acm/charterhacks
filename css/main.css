@@ -1,11 +1,6 @@
-/*
-
-The Town
-
-https://templatemo.com/tm-525-the-town
-
-*/
-/* Hide scrollbar for Chrome, Safari and Opera */
+#text-white {
+  color: white;
+}
 .example::-webkit-scrollbar {
   display: none;
 }
@@ -428,7 +423,7 @@ figure.effect-honey:hover h2 i {
 
 /* Contact */
 
-#team {
+#foot {
   color: white;
   background-image: url(/img/hero.jpg);
   background-position: center;
@@ -437,7 +432,7 @@ figure.effect-honey:hover h2 i {
   position: relative;
   padding-bottom: 0px;
   padding-top: 160px;
-}
+} 
 
 .tm-underline {
   border-top: 2px solid white;

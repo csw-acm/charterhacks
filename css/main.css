@@ -430,7 +430,7 @@ figure.effect-honey:hover h2 i {
 
 #foot {
   color: white;
-  background-image: url(/img/hero.jpg);
+  /*background-image: url(/img/hero.jpg);*/
   background-position: center;
   background-repeat: no-repeat;
   min-height: 850px;

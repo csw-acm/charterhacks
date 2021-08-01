@@ -1,10 +1,9 @@
 #last {
-	background-image: url(/img/hero.jpg);
-	background-repeat: repeat;
-	height: 100vh;
-	min-height: 375px;
-	width: inherit;
-	position: absolute;
+    background-image: url(/img/hero.jpg);
+    background-repeat: repeat;
+    height: 100%;
+    width: inherit;
+    position: relative
 }
 #placer {
     background: transparent;

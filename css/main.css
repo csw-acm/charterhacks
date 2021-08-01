@@ -3,7 +3,7 @@
 	background-repeat: repeat;
 	/*height: 100vh;
 	min-height: 375px;*/
-	height: 100%;
+	height: inherit;
 	width: 100%;
 	position: relative;
 }

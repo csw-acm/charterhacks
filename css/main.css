@@ -5,7 +5,7 @@
 	min-height: 375px;*/
 	height: 100%;
 	width: inherit;
-	position: relative;
+	position: absolute;
 }
 #placer {
     background: transparent;

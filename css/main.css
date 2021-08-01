@@ -1,6 +1,6 @@
 #last {
 	background-image: url(/img/hero.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	height: 100vh;
 	min-height: 375px;
 	position: relative;

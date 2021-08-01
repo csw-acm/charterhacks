@@ -3,7 +3,7 @@
 	background-repeat: repeat;
 	height: 100vh;
 	min-height: 375px;
-	position: relative;
+	position: absolute;
 }
 #placer {
     background: transparent;
